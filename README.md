@@ -1,8 +1,4 @@
 # Predictive-Models-Classfier-
-Greetings,
-I will be taking up  project and simultaneously I will keep adding them here.
-I will be adding the details of dataset and refer them here itself.
-
 A] Predicting Parkinson's Disease : 
 Data set : https://data.world/uci/parkinsons 
 
